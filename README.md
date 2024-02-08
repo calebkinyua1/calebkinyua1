@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @calebkinyua1
-- 👀 I’m interested in ...software development and system analysis and design
+- 👀 I’m interested in ...software development,system analysis and design, hacking, 
 - 🌱 I’m currently learning ...software installations, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
