@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @calebkinyua1
-- 👀 I’m interested in ...software development,system analysis and design, hacking,Networking, Internet istallation, 
-- 🌱 I’m currently learning ...software installations,
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m One Dollar ¹$
+- I do software development,coding,system design,Networking,Internet istallation and other basic IT skills.
+- 🌱 I’m currently learning coding in details 
+- 💞️
+- 📫 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
